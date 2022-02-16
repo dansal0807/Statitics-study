@@ -5,4 +5,4 @@ Esse repositório contém o uso de fórmulas recorrentes de estatística com Pan
 ---------
 [En]
 
-This repository contains current statistics formulas used in Pandas for data analysis. Besides the notebook with the pandas usage, there's a cheat sheet in which the main formulas and other concepts are presented. Amon them, there are: descriptive statistical definitions, probability, central limity theorem, linear regression, ANOVA and others.
+This repository contains current statistics formulas used in Pandas for data analysis. Besides the notebook with the pandas usage, there's a cheat sheet in which the main formulas and other concepts are presented. Among them, there are: descriptive statistical definitions, probability, central limity theorem, linear regression, ANOVA and others.
